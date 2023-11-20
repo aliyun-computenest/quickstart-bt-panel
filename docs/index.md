@@ -71,4 +71,4 @@
 
 ### 使用宝塔Linux面板
 
-请访问宝塔Linux面板官网了解如何使用宝塔Linux面板：[宝塔Linux面板使用文档](http://www.宝塔Linux面板.org.cn/)
+请访问宝塔Linux面板官网了解如何使用宝塔Linux面板：[宝塔Linux面板使用文档](https://www.bt.cn/new/index.html)
